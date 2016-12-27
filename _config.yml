@@ -5,7 +5,7 @@
 # Site
 title: Lmxy1990'Blog
 subtitle:
-description:
+description: love code, enjoy life .
 author: lxmy1990
 language: zh-Hans
 timezone:
@@ -44,7 +44,7 @@ highlight:
   tab_replace:
 
 # Category & Tag
-default_category: categorized
+# default_category:
 category_map:
 tag_map:
 
